@@ -1,0 +1,21 @@
+.class {
+    border-radius: 5px;
+    
+    padding: 20px;
+    
+
+}
+
+#back{
+     background-color:skyblue;
+ 
+}
+
+
+
+#text{
+display: block;
+    margin: auto;
+    width: 40%;
+ background-color:skyblue;
+}
